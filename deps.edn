@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps {com.amazonaws/aws-java-sdk-ssm {:mvn/version "1.11.536"}
+        com.amazonaws/aws-java-sdk-core {:mvn/version "1.11.536"}
+        org.clojure/clojure {:mvn/version "RELEASE"}}}
