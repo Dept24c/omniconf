@@ -1,5 +1,5 @@
 {:paths ["src"]
- :deps {com.cognitect.aws/api {:mvn/version "0.8.289"}
-        com.cognitect.aws/endpoints {:mvn/version "1.1.11.526"}
-        com.cognitect.aws/ssm {:mvn/version "712.2.414.0"}
+ :deps {com.cognitect.aws/api {:mvn/version "0.8.301"}
+        com.cognitect.aws/endpoints {:mvn/version "1.1.11.537"}
+        com.cognitect.aws/ssm {:mvn/version "715.2.433.0"}
         org.clojure/clojure {:mvn/version "RELEASE"}}}
